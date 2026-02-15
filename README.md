@@ -28,7 +28,7 @@ A fully offline, privacy-focused voice-to-voice AI assistant that runs completel
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/voice-ai-assistant.git
+   gh repo clone Badal2706/voice-ai-assistant
    cd voice-ai-assistant
    
 2. Install dependencies:Install dependencies:
@@ -96,5 +96,6 @@ A fully offline, privacy-focused voice-to-voice AI assistant that runs completel
     Faster Whisper for efficient STT
     Ollama for easy local LLM hosting
     pyttsx3 for offline TTS
+
 
 ### Built with ❤️ by Badal Patel
